@@ -38,7 +38,7 @@ public class Car extends Vehicle {
     public int getSeats(){
         return seats;
     }
-    public boolean getisManual(){
+    public boolean isManual(){
         return isManual;
     }
     public int getGears(){
@@ -59,7 +59,7 @@ public class Car extends Vehicle {
     public void setEeats(int seats){
         this.seats= seats;
     }
-    public void setisManual(boolean isManual){
+    public void setManual(boolean isManual){
         this.isManual= isManual;
     }
     public void setGears(int gears){
