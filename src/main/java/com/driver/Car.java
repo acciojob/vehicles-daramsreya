@@ -35,43 +35,43 @@ public class Car extends Vehicle {
     public int getCurrentGear(){
         return currentGear;
     }
-    public int getseats(){
+    public int getSeats(){
         return seats;
     }
     public boolean getisManual(){
         return isManual;
     }
-    public int getgears(){
+    public int getGears(){
         return gears;
     }
-    public int getdoors(){
+    public int getDoors(){
         return doors;
     }
-    public String gettype(){
+    public String getType(){
         return type;
     }
-    public int getwheels(){
+    public int getWheels(){
         return wheels;
     }
     public void setCurrentGear(int currentGear){
         this.currentGear = currentGear;
     }
-    public void setseats(int seats){
+    public void setEeats(int seats){
         this.seats= seats;
     }
     public void setisManual(boolean isManual){
         this.isManual= isManual;
     }
-    public void setgears(int gears){
+    public void setGears(int gears){
         this.gears= gears;
     }
-    public void setdoors(int doors){
+    public void setDoors(int doors){
         this.doors= doors;
     }
-    public void settype(String type){
+    public void setType(String type){
         this.type= type;
     }
-    public void setwheels(int wheels){
+    public void setWheels(int wheels){
         this.wheels= wheels;
     }
 

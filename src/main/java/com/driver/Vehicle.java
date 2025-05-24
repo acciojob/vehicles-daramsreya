@@ -46,10 +46,10 @@ public class Vehicle {
     public void setCurrentDirection(int currentDirection){
         this.currentDirection=currentDirection;
     }
-    public String getname(){
+    public String getName(){
         return name;
     }
-    public void setname(String name){
+    public void setName(String name){
         this.name=name;
     }
 
